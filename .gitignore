@@ -8,14 +8,12 @@
 **/.env
 .env
 .venv
-median_imputer.joblib
-mice_imputer.joblib
-missing_values.json
 class_distribution.png
-trained_models
+
 db.sqlite3
 
 debug.log
+analysis-v3 -  report.pdf
 
 # Django Migrations
 **/migrations
