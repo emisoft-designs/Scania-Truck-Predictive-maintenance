@@ -4,12 +4,15 @@
 **/*.pyo
 **/*.pyd
 **/lab
+*.sav
+**/trained_models
 # Environment files
-**/.env
+*/.env
 .env
-.venv
-class_distribution.png
-
+.venv 
+**/*.png
+**/*.joblib
+**/*.log
 db.sqlite3
 
 debug.log
